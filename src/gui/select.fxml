@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" style="-fx-background-color: #d7cec7;" minWidth="-Infinity" prefHeight="477.0" prefWidth="691.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.SelectController">
+    <children>
+        <ListView fx:id="examplesListView" layoutX="20.0" layoutY="31.0" prefHeight="218.0" prefWidth="360.0" AnchorPane.bottomAnchor="21.0" style = "-fx-background-color: #E5E1DA" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="30.0" />
+        <Label layoutX="20.0" layoutY="6.0" style="-fx-font-weight: 900 ; -fx-font-family: 'Comic Sans MS'; -fx-font-size: 15; -fx-text-fill: #76323f" text="Choose an example!" />
+    </children>
+</AnchorPane>

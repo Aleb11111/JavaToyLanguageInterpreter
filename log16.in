@@ -1,0 +1,1118 @@
+
+------------------
+Program ID: 16
+Execution Stack: 
+(Ref(int) a;(Ref(int) b;(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))))))
+
+Symbol Table:
+[ 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))))
+
+Symbol Table:
+[ 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+Ref(int) a
+(Ref(int) b;(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))))
+
+Symbol Table:
+[ 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(Ref(int) b;(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(Ref(int) b;(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+Ref(int) b
+(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+Ref(int) b
+(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(int v;(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+int v
+(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+int v
+(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(new(a, 0);;(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+new(a, 0);
+(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+new(a, 0);
+(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))
+
+Symbol Table:
+[ 
+a: (0, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(new(b, 0);;(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+new(b, 0);
+(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+new(b, 0);
+(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (0, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(writeHeap(a, 1);;(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+writeHeap(a, 1);
+(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+writeHeap(a, 1);
+(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->0] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(writeHeap(b, 2);;(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+writeHeap(b, 2);
+(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+writeHeap(b, 2);
+(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->0] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(v=( readHeap(a) < readHeap(b))?100:200;;(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=( readHeap(a) < readHeap(b))?100:200;
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=( readHeap(a) < readHeap(b))?100:200;
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+IF(readHeap(a) < readHeap(b))THEN(v=100)ELSE(v=200))
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+IF(readHeap(a) < readHeap(b))THEN(v=100)ELSE(v=200))
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=100
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=100
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 0, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(print(v);(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v)))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+print(v)
+(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+print(v)
+(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+(v=( readHeap(b)-2 > readHeap(a))?100:200;;print(v))
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=( readHeap(b)-2 > readHeap(a))?100:200;
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=( readHeap(b)-2 > readHeap(a))?100:200;
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+IF(readHeap(b)-2 > readHeap(a))THEN(v=100)ELSE(v=200))
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+IF(readHeap(b)-2 > readHeap(a))THEN(v=100)ELSE(v=200))
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=200
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+v=200
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 100, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 200, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+print(v)
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 200, 
+]
+
+Output Table:
+100
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
+
+------------------
+Program ID: 16
+Execution Stack: 
+
+Symbol Table:
+[ 
+a: (1, int), 
+b: (2, int), 
+v: 200, 
+]
+
+Output Table:
+100
+200
+
+File Table:
+[ 
+]
+Heap: 
+[1->1] [2->2] 
+Semaphore Table:
+Latch Table:
